@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SmartHome</string>
+    <string name="lamp1">Lamp1</string>
+    <string name="lamp_2">Lamp 2</string>
+    <string name="welcome_to">welcome to</string>
+    <string name="putra_smarthome">Putra SmartHome</string>
+</resources>
